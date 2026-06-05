@@ -1,6 +1,7 @@
 # Elección de Empresa: HealthCore
 
 **¿Por qué HealthCore?**
+
 He elegido HealthCore porque actualmente trabajo en el sector sanitario, lo que me otorga un conocimiento sólido de sus dinámicas de trabajo, la terminología clínica y los retos operativos del día a día. Mi experiencia me ayuda a comprender cómo unir los distintos registros digitales de los pacientes y garantizar que se respeten siempre las normas de confidencialidad, aportando una visión realista de lo que sucede en las consultas. Me motiva aplicar ingeniería de IA en un entorno que conozco bien para resolver problemas críticos como la carga administrativa, permitiendo que la tecnología sea un aliado real que devuelva tiempo de calidad a los profesionales de la salud y mejore la atención al paciente.
 
 **Departamentos de interés:**
